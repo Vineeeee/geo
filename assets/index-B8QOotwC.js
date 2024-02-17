@@ -153,7 +153,7 @@ color: ;
 font-size: 35px;
 animation: mt 2.2s infinite;
 
-`,zv=()=>A.jsx(av,{children:A.jsxs(iv,{children:[A.jsx(cu,{exact:!0,path:"/",element:A.jsx(fv,{})}),A.jsx(cu,{exact:!0,path:"/feliz-aniversario-gatinha",element:A.jsx(kv,{})})]})});function Iv(){return A.jsxs(A.Fragment,{children:[A.jsx(Lv,{}),A.jsx(zv,{})]})}const Lv=h0`
+`,zv=()=>A.jsx(av,{children:A.jsxs(iv,{children:[A.jsx(cu,{exact:!0,path:"/geo",element:A.jsx(fv,{})}),A.jsx(cu,{exact:!0,path:"/feliz-aniversario-gatinha",element:A.jsx(kv,{})})]})});function Iv(){return A.jsxs(A.Fragment,{children:[A.jsx(Lv,{}),A.jsx(zv,{})]})}const Lv=h0`
 *{margin: 0;
   padding: 0;
   box-sizing: border-box;
