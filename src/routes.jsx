@@ -4,13 +4,13 @@ import { Cu } from "./cu"
 
 const AppRoutes = () => {
 
-    return(
-    <BrowserRouter>
-        <Routes>
-            <Route exact path="/" element={<Date/>} />
-            <Route exact path="/feliz-aniversario-gatinha" element={<Cu/>} />
-        </Routes>
-    </BrowserRouter>
+    return (
+        <BrowserRouter>
+            <Routes>
+                <Route exact path="/geo" element={<Date />} />
+                <Route exact path="/feliz-aniversario-gatinha" element={<Cu />} />
+            </Routes>
+        </BrowserRouter>
     )
 }
 
